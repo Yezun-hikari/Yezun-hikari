@@ -51,14 +51,14 @@ Da ich auch mit der **russischen Küche** aufgewachsen bin, schätze ich diese a
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Raspberry%20Pi%205-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" alt="Raspberry Pi">
   <img src="https://img.shields.io/badge/AI_Code-Antigravity-8A2BE2?style=for-the-badge&logo=robot&logoColor=white" alt="Antigravity">
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare">
-  <img src="https://img.shields.io/badge/Jellyfin-00A4DC?style=for-the-badge&logo=jellyfin&logoColor=white" alt="Jellyfin">
+  <img src="https://img.shields.io/badge/Jellyfin-892BCA?style=for-the-badge&logo=jellyfin&logoColor=white" alt="Jellyfin">
   <img src="https://img.shields.io/badge/Immich-06B6D4?style=for-the-badge&logo=immich&logoColor=white" alt="Immich">
-  <img src="https://img.shields.io/badge/Tailscale-4799EB?style=for-the-badge&logo=tailscale&logoColor=white" alt="Tailscale">
-  <img src="https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white" alt="Portainer">
+  <img src="https://img.shields.io/badge/Tailscale-1C1C1C?style=for-the-badge&logo=tailscale&logoColor=white" alt="Tailscale">
+  <img src="https://img.shields.io/badge/Portainer-293138?style=for-the-badge&logo=portainer&logoColor=white" alt="Portainer">
 </p>
 
 ---
