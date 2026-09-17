@@ -1,6 +1,4 @@
 <div align="center">
-  <!-- Dein GitHub-Profilbild -->
-  <img src="https://github.com/Yezun-hikari.png" width="150" style="border-radius: 50%;" alt="Yezun-hikari Profilbild">
 
   <h1>Hi! 👋 Willkommen auf meinem Profil</h1>
   
@@ -42,12 +40,10 @@ Neben dem Coden und Projekten schaue ich in meiner Freizeit gerne Serien und Ani
 
 ### 🍜 Essen
 
+<img src="./oneko_hungry_smol.gif" align="right" alt="Hungrige Oneko">
+
 Ich liebe die **asiatische Küche**, dabei gefallen mir Sushi, Ramen oder auch Bratnudeln am meisten. 
 Da ich auch mit der **russischen Küche** aufgewachsen bin, schätze ich diese auch sehr. Mein absolutes Lieblingsgericht sind dabei **Pelmeni**! 🥟
-
-<p align="center">
-  <img src="./oneko_hungry_smol.gif" alt="Hungrige Oneko">
-</p>
 
 ---
 
@@ -73,11 +69,5 @@ Da ich auch mit der **russischen Küche** aufgewachsen bin, schätze ich diese a
   <a href="https://github.com/Yezun-hikari">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yezun-hikari&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%">
   </a>
+  <img src="./oneko_sleep.gif" align="right" alt="Schlafende Oneko">
 </p>
-
----
-
-<div align="right">
-  <!-- Deine schlafende Oneko unten rechts -->
-  <img src="./oneko_sleep.gif" alt="Schlafende Oneko">
-</div>
