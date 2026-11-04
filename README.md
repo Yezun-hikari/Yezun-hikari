@@ -53,7 +53,6 @@ Da ich auch mit der **russischen Küche** aufgewachsen bin, schätze ich diese a
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Raspberry%20Pi%205-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" alt="Raspberry Pi">
-  <img src="https://img.shields.io/badge/AI_Code-Antigravity-8A2BE2?style=for-the-badge&logo=robot&logoColor=white" alt="Antigravity">
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare">
   <img src="https://img.shields.io/badge/Jellyfin-892BCA?style=for-the-badge&logo=jellyfin&logoColor=white" alt="Jellyfin">
   <img src="https://img.shields.io/badge/Immich-06B6D4?style=for-the-badge&logo=immich&logoColor=white" alt="Immich">
