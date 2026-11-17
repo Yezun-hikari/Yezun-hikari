@@ -16,7 +16,7 @@
 
 ### 🚀 Über mich & Projekte
 
-<img src="./oneko_thinking.png" align="right" alt="Nachdenkliche Oneko">
+<img src="./oneko_thinking.svg" align="right" alt="Nachdenkliche Oneko">
 
 - 🐍 **Fokus:** Ich schreibe ausschließlich **Python**-Code. Das meiste davon wird jedoch durch KI programmiert.
 - 🍓 **Hardware & Hosting:** Ich besitze einen **Raspberry Pi 5 (8GB)**, auf dem einige meiner Projekte in **Docker**-Containern laufen.
@@ -31,7 +31,7 @@ Neben dem Coden und Projekten schaue ich in meiner Freizeit gerne Anime! Zu mein
 
 <p align="center">
   <a href="https://myanimelist.net/profile/Yezun_hikari">
-    <img src="https://pub-25de70ed316a4aebacfedae6e26b4a87.r2.dev/svgs/670e1eac-4b48-48db-8faf-107032113769.svg?v=1789670294161" alt="Myanimelist Stats">
+    <img src="https://raw.githubusercontent.com/Yezun-hikari/Yezun-hikari/mal-card/mal.svg" alt="MyAnimeList Stats und aktuell geschaute Animes" width="100%">
   </a>
 </p>
 
@@ -39,7 +39,7 @@ Neben dem Coden und Projekten schaue ich in meiner Freizeit gerne Anime! Zu mein
 
 ### 🍜 Essen
 
-<img src="./oneko_hungry_smol.gif" align="right" alt="Hungrige Oneko">
+<img src="./oneko_hungry_smol.svg" align="right" alt="Hungrige Oneko">
 
 Ich liebe die **asiatische Küche**, dabei gefallen mir Sushi, Ramen und Bratnudeln am meisten. 
 Da ich auch mit der **russischen Küche** aufgewachsen bin, schätze ich diese auch sehr. Mein absolutes Lieblingsgericht sind dabei **Pelmeni**! 🥟
@@ -65,10 +65,11 @@ Da ich auch mit der **russischen Küche** aufgewachsen bin, schätze ich diese a
 ### 📊 GitHub Stats
 
 <p align="center">
+  <img src="./assets/spacer.svg" width="150" alt="">
   <a href="https://github.com/Yezun-hikari">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Yezun-hikari&theme=transparent&hide_border=true" alt="GitHub Streak" width="48%">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Yezun-hikari&theme=transparent&hide_border=true" alt="GitHub Streak">
   </a>
-  <img src="./oneko_sleep.gif" align="right" alt="Schlafende Oneko">
+  <img src="./oneko_sleep.svg" width="150" alt="Schlafende Oneko">
 </p>
 
 <p align="center"><sub>Cats from <a href="https://github.com/adryd325/oneko.js">oneko.js</a> (MIT)</sub></p>

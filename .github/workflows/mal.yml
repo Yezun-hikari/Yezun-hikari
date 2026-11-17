@@ -1,0 +1,35 @@
+name: Update MyAnimeList card
+
+on:
+  schedule:
+    - cron: "23 */6 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/scripts/mal_card.py"
+      - ".github/workflows/mal.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: mal-card
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python .github/scripts/mal_card.py
+      # Card lives alone on the "mal-card" branch, force-pushed as one commit, so main history stays clean.
+      - name: Publish to mal-card branch
+        run: |
+          cd assets
+          git init -q -b mal-card
+          git add mal.svg
+          git -c user.name="github-actions[bot]" -c user.email="41898233+github-actions[bot]@users.noreply.github.com" commit -qm "MyAnimeList card"
+          git push -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" mal-card
