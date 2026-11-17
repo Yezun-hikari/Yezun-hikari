@@ -18,17 +18,16 @@
 
 <img src="./oneko_thinking.png" align="right" alt="Nachdenkliche Oneko">
 
-- 🐍 **Fokus:** Ich schreibe ausschließlich **Python**-Code. Das meiste davon wird jedoch durch KI programmiert – dafür nutze ich **Antigravity**.
+- 🐍 **Fokus:** Ich schreibe ausschließlich **Python**-Code. Das meiste davon wird jedoch durch KI programmiert.
 - 🍓 **Hardware & Hosting:** Ich besitze einen **Raspberry Pi 5 (8GB)**, auf dem einige meiner Projekte in **Docker**-Containern laufen.
-- 🔭 **Aktuelles Projekt:** Ich arbeite aktiv am **[AniWorld-Downloader](https://github.com/phoenixthrush/AniWorld-Downloader)** mit – ein Tool zum Herunterladen von Inhalten von sämtlichen Seiten.
-- 🐺 **Haustiere:** Ich habe aktuell noch keine Haustiere, liebe aber Hunde und Katzen. Vor allem Hunde – mein absoluter Traum ist es, irgendwann einen Husky zu haben! :D
-- 🌐 **Portfolio:** Schau dir gerne meine persönliche Webseite auf **[yezun.de](https://yezun.de)** an!
+- 🔭 **Aktuelles Projekt:** Ich arbeite aktiv am **[AniWorld-Downloader](https://github.com/phoenixthrush/AniWorld-Downloader)** mit, ein Tool zum Herunterladen von Inhalten von sämtlichen Seiten.
+- 🌐 **Portfolio:** Schau dir gerne meine Webseite auf **[yezun.de](https://yezun.de)** an!
 
 ---
 
 ### 🎌 Anime
 
-Neben dem Coden und Projekten schaue ich in meiner Freizeit gerne Serien und Anime! Zu meinen Lieblingsgenres gehören **Isekai** und **Romance**. 
+Neben dem Coden und Projekten schaue ich in meiner Freizeit gerne Anime! Zu meinen Lieblingsgenres gehören **Isekai** und **Romance**. 
 
 <p align="center">
   <a href="https://myanimelist.net/profile/Yezun_hikari">
@@ -42,7 +41,7 @@ Neben dem Coden und Projekten schaue ich in meiner Freizeit gerne Serien und Ani
 
 <img src="./oneko_hungry_smol.gif" align="right" alt="Hungrige Oneko">
 
-Ich liebe die **asiatische Küche**, dabei gefallen mir Sushi, Ramen oder auch Bratnudeln am meisten. 
+Ich liebe die **asiatische Küche**, dabei gefallen mir Sushi, Ramen und Bratnudeln am meisten. 
 Da ich auch mit der **russischen Küche** aufgewachsen bin, schätze ich diese auch sehr. Mein absolutes Lieblingsgericht sind dabei **Pelmeni**! 🥟
 
 ---
@@ -67,7 +66,9 @@ Da ich auch mit der **russischen Küche** aufgewachsen bin, schätze ich diese a
 
 <p align="center">
   <a href="https://github.com/Yezun-hikari">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yezun-hikari&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%">
+    <img src="[https://github-readme-streak-stats.herokuapp.com/?user=Yezun-hikari&theme=tokyonight&hide_border=true](https://github-readme-streak-stats.herokuapp.com/demo/?user=Yezun-hikari&theme=transparent&hide_border=true&border_radius=4.5&locale=en&timezone=&short_numbers=false&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&card_height=195&type=svg&background-type=solid&properties=background)" alt="GitHub Streak" width="48%">
   </a>
   <img src="./oneko_sleep.gif" align="right" alt="Schlafende Oneko">
 </p>
+
+<p align="center"><sub>Cats from <a href="https://github.com/adryd325/oneko.js">oneko.js</a> (MIT)</sub></p>
