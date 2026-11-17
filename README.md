@@ -5,9 +5,7 @@
   <p>Python-Dev | Raspberry Pi Enthusiast | Vibe-Coder</p>
   
   <!-- Badge für deine Webseite -->
-  <a href="https://yezun.de">
-    <img src="https://img.shields.io/badge/Website-yezun.de-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="yezun.de">
-  </a>
+  <a href="https://yezun.de"><img src="https://img.shields.io/badge/Website-yezun.de-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="yezun.de"></a>
 </div>
 
 <br>
@@ -30,9 +28,7 @@
 Neben dem Coden und Projekten schaue ich in meiner Freizeit gerne Anime! Zu meinen Lieblingsgenres gehören **Isekai** und **Romance**. 
 
 <p align="center">
-  <a href="https://myanimelist.net/profile/Yezun_hikari">
-    <img src="https://raw.githubusercontent.com/Yezun-hikari/Yezun-hikari/mal-card/mal.svg" alt="MyAnimeList Stats und aktuell geschaute Animes" width="100%">
-  </a>
+  <a href="https://myanimelist.net/profile/Yezun_hikari"><img src="https://raw.githubusercontent.com/Yezun-hikari/Yezun-hikari/mal-card/mal.svg" alt="MyAnimeList Stats und aktuell geschaute Animes" width="100%"></a>
 </p>
 
 ---
@@ -66,9 +62,7 @@ Da ich auch mit der **russischen Küche** aufgewachsen bin, schätze ich diese a
 
 <p align="center">
   <img src="./assets/spacer.svg" width="150" alt="">
-  <a href="https://github.com/Yezun-hikari">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Yezun-hikari&theme=transparent&hide_border=true" alt="GitHub Streak">
-  </a>
+  <a href="https://github.com/Yezun-hikari"><img src="https://github-readme-streak-stats.herokuapp.com?user=Yezun-hikari&theme=transparent&hide_border=true" alt="GitHub Streak"></a>
   <img src="./oneko_sleep.svg" width="150" alt="Schlafende Oneko">
 </p>
 
